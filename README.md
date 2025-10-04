@@ -1,6 +1,4 @@
-[syoukai.html](https://github.com/user-attachments/files/22691354/syoukai.html)
 
-<!doctype html>
 <html lang="ja">
   <head>
     <meta charset="utf-8">
